@@ -13,3 +13,4 @@ Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecno
 - HTML
 - CSS
 - IA
+- Node.js
